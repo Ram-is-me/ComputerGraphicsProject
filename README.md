@@ -1,4 +1,4 @@
-#### README for CS606: Computer Graphics, Project, Ram S - IMT2017521
+## README for CS606: Computer Graphics, Project, Ram S - IMT2017521
 
 ### Execution:
 To compile and run the program, just run
@@ -15,3 +15,4 @@ to just run the executable
 
 The executable files will be generated in the bin folder.
 
+For a video demo please visit: https://ram-is-me.github.io/Portfolio/projects.html
