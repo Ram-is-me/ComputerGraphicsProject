@@ -1,6 +1,6 @@
-README for CS606: Computer Graphics, Project, Ram S - IMT2017521
+#### README for CS606: Computer Graphics, Project, Ram S - IMT2017521
 
-Execution:
+### Execution:
 To compile and run the program, just run
 $make 
 in the command terminal
